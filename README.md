@@ -1,5 +1,5 @@
 # Desafios HTML
-Desafios em HTML feitos durante a Formação HTML Developer pela plataforma [DIO](https://web.dio.me/home)
+Desafios em HTML feitos durante a [Formação HTML Developer](https://dio.me/curso-html/AFD1W2MD3BXI) pela plataforma [DIO](https://web.dio.me/home)
 
 # 1. Página Completa
 ## Entendo o Desafio
